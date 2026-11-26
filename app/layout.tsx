@@ -35,7 +35,7 @@ export default function RootLayout({
   return (
     <html lang="en" suppressHydrationWarning>
       <head>
-        <script src="https://apps.abacus.ai/chatllm/appllm-lib.js"></script>
+
         <link rel="preload" href="/motonet-logo.png" as="image" />
         <link rel="preload" href="/favicon.png" as="image" />
       </head>

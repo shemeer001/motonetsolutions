@@ -8,32 +8,32 @@ import AnimatedSection from './animated-section';
 const VEHICLES = [
   {
     name: 'Cars & Sedans',
-    image: 'https://cdn.abacus.ai/images/ab43ad43-900c-483e-94b5-d1de241b636b.png',
+    image: '/images/abacus-originals/vehicle-cars.png',
     desc: 'Comprehensive coverage for personal cars and sedans',
   },
   {
     name: 'Motorcycles',
-    image: 'https://cdn.abacus.ai/images/650cf000-d069-46f2-b28a-b1174c5d40e2.png',
+    image: '/images/abacus-originals/vehicle-motorcycles.jpg',
     desc: 'Insurance and RTO services for two-wheelers',
   },
   {
     name: 'Commercial Trucks',
-    image: 'https://cdn.abacus.ai/images/64280097-4dc9-4df0-8adf-b7c6e6f92593.png',
+    image: '/images/truck.png',
     desc: 'Fleet management and commercial vehicle documentation',
   },
   {
     name: 'SUVs & Crossovers',
-    image: 'https://cdn.abacus.ai/images/42e8da59-a282-41b4-8c05-9337eda92c9d.png',
+    image: '/images/abacus-originals/vehicle-suvs.jpg',
     desc: 'Premium services for luxury and off-road vehicles',
   },
   {
     name: 'Auto Rickshaws',
-    image: 'https://cdn.abacus.ai/images/d8d834b4-ac9d-4c78-92e0-85d87f90bb99.png',
+    image: '/images/abacus-originals/vehicle-auto-rickshaw.png',
     desc: 'Specialized services for three-wheeler registration',
   },
   {
     name: 'Private Buses',
-    image: 'https://cdn.abacus.ai/images/051102f8-2e94-4420-9797-581e84d34914.png',
+    image: '/images/abacus-originals/vehicle-buses.png',
     desc: 'Complete documentation for private and tourist buses',
   },
 ];

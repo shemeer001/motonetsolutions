@@ -31,7 +31,7 @@ export default function HeroSection() {
       {/* Background Image with Parallax */}
       <motion.div className="absolute inset-0 z-0" style={{ y: bgY }}>
         <Image
-          src="https://cdn.abacus.ai/images/1948d283-b725-4de4-9a34-23e22b29a8a7.png"
+          src="/images/abacus-originals/hero-background.jpg"
           alt="Modern city road with vehicles at dusk"
           fill
           className="object-cover"
@@ -54,7 +54,7 @@ export default function HeroSection() {
       >
         <div className="relative w-full h-full" style={{ transformStyle: 'preserve-3d' }}>
           <Image
-            src="https://cdn.abacus.ai/images/1b77c8cb-265e-4b35-89f3-4bb6f19418f8.png"
+            src="/images/abacus-originals/hero-suv.jpg"
             alt="3D rendered luxury SUV"
             fill
             className="object-contain drop-shadow-[0_20px_50px_rgba(0,188,212,0.3)]"

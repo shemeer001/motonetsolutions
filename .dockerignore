@@ -1,0 +1,13 @@
+.git
+.github
+node_modules
+.next
+.yarn
+.env
+.env.*
+!.env.example
+*.log
+*.bak
+/images/
+coverage
+.DS_Store
