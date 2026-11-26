@@ -26,7 +26,7 @@ jobs:
           yarn --version
 
       - name: Regenerate lockfile
-        run: yarn install
+        run: yarn install --no-immutable
 
       - name: Commit updated lockfile
         run: |
